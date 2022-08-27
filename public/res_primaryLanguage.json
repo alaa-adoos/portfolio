@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Alaaabualdoos.react javascript developer with ASAC. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,38 +81,26 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "LTUC",
+        "title": "Full stack  Developer",
+        "years": "07-2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "pythin"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+         
+          "HTML5",
+          "CSS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "react",
+          "Python"
+        
+     
+        
+   
         ]
       }
+     
     ]
   }
